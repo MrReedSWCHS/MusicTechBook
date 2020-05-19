@@ -1,5 +1,5 @@
+<body style="margin:10px;50px;10px;50px">
+
 # MusicTechBook
 
-The open-source Music Tech Textbook.
-
-[Google](www.google.com)
+The online, open-source Music Tech textbook.
