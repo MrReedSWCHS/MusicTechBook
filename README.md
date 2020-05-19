@@ -1,4 +1,4 @@
-<body style="margin:10%;25%;10%;25%">
+<body style="margin:5%;35%;5%;35%">
 
 
 Here is some body text.
