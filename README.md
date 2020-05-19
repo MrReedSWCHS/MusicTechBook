@@ -1,5 +1,5 @@
-<body style="margin:10px;50px;10px;50px">
+<body style="margin:30px;70px;30px;70px">
 
-# MusicTechBook
+# TechBook
 
 The online, open-source Music Tech textbook.
