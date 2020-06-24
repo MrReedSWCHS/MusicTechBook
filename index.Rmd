@@ -1,0 +1,21 @@
+---
+title: "Techbook"
+#author: ""
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: 
+    #toc_depth: 1
+    toc_depth: 2
+    css: style.css
+    number_sections: true
+    config:
+      toc:
+        #collapse: section
+        scroll_highlight: yes
+---
+
+# Test
+
+Hello
+
