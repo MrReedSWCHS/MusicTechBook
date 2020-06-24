@@ -1,3 +1,8 @@
-# Next page
+# Vocoder
 
-Hello hello hello!
+## Summary
+
+A vocoder synthesises speech. It analyses a 'modulation' signal (speech) and uses this to apply filters to the 'carrier' signal (a synthesiser output).
+
+A vocoder can sound more realistic by increasing the number of filter bands.
+
