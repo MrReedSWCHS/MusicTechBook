@@ -15,3 +15,9 @@
   border-style:solid;
   padding: 5px
 }
+
+.caption {
+    text-align: center;
+    font-style: italic;
+    color: #505050;
+}
