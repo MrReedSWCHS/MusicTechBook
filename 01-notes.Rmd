@@ -1,5 +1,17 @@
 # Vocal FX
 
+## Talk box
+
+The Talk box is an electromechanical device. This is how it works:
+
+1. A signal is sent to a speaker driver
+1. The speaker is connected to a plastic tube.
+1. The sound waves travel up the tube into the person's mouth.
+1. Their mouth acts as a filter, changing the frequency content of the sound.
+1. The sound comes out of the person's mouth and is captured with a mic.
+
+![Roger Troutman](img/troutman.jpg){}
+
 ## Vocoder
 
 ### Summary
